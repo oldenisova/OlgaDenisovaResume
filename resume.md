@@ -56,6 +56,6 @@ fixed.</li>
 <li>Graduated at the top 3% of the class.</li>
 
 <li>Entered the University as a winner of a highly competitive Olympiad in Physics and Mathematics organized by Russian Federal Atomic Energy Agency (RosAtom) and was awarded 4 certificates by the Agency.</li>
-<li>Recipient of multiple *MEPHI Academic Scholarships* throughout the program.</li>
+<li>Recipient of multiple MEPHI Academic Scholarships throughout the program.</li>
 <li>HTML, CSS, JavaScript for beginners on coursera.com</li>
 </ul>
