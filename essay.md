@@ -14,7 +14,7 @@ Since formal education is very expensive in the US, I started to loose hope abou
 Then I discovered Ada and decided to apply.
 
 <h1>If you are accepted into our program, where do you see your career in 5 years?</h1>
-<p1>In five years, I see myself as a professional software developer who
+In five years, I see myself as a professional software developer who
 <ul>
 <li> achieved success in multiple projects</li>
 <li> earned respect for producing high quality code</li> 
@@ -22,7 +22,7 @@ Then I discovered Ada and decided to apply.
 <li>is proud creator of products that improve lives</li>
 <li>is thankful to ADA and spreading good words about the program for the fact that its committee believed in me and gave this unique opportunity</li>
 </ul>
-In addition, I also see myself as a happy wife and mother who proved to herself and to her family that she can do meaningful contributions to society.</p1>
+In addition, I also see myself as a happy wife and mother who proved to herself and to her family that she can do meaningful contributions to society.
 
 <h1>After reading Ada's Vision, Mission and Inclusivity Statement, how will you contribute to Ada's vision for an inclusive and diverse community?</h1>
 There is an unfortunate stereotype that women are less suitable for engineering and computer science jobs than men. Even more unfortunate is that many talented women who can thrive in these professions are deciding not to pursue them because of such stereotypes.
