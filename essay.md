@@ -1,6 +1,6 @@
 <h1>Why are you interested in programming? What have you done to expose yourself to programming so far?</h1>
 I loved problem solving and mathematics since my childhood. My favourite toys were puzzles, such as Rubik Cube.
-After high school, I decided to study Applied Math at Moscow Institute of Physics and Technology, which I entered by wining a competitive Olympiad in Physics and Math that provided full scholarship.
+After high school, I decided to study Applied Math at Moscow Engineering Physics Institute, which I entered by wining a competitive Olympiad in Physics and Math that provided full scholarship.
 
 After graduation, it didn't took much effort to find a good job as Business Analyst in Moscow, which exposed me to software development world. I didn't do any programming at my previous positions and had been involved mostly in requirements gathering, I still closely interacted with development teams. Being constantly curious and trying to learn new things,
 I was trying to get more involved in the development process and liked it, but didn't have a chance to do programming first-hand.
@@ -25,10 +25,12 @@ Then I discovered Ada and decided to apply.
 In addition, I also see myself as a happy wife and mother who proved to herself and to her family that she can do meaningful contributions to society.</p1>
 
 <h1>After reading Ada's Vision, Mission and Inclusivity Statement, how will you contribute to Ada's vision for an inclusive and diverse community?</h1>
-<p1>There is an unfortunate stereotype that women are less suitable for engineering and computer science jobs than men. Even more unfortunate is that many talented women who can thrive in these professions are deciding not to pursue them because of such stereotypes. If I become Ada's graduate, I would see it as a fun duty to educate girls and women of various backgrounds about accessibility of computer science skills and jobs to them. They deserve to know that if they have passion for engineering jobs, they can learn it and make good career</p1>
+There is an unfortunate stereotype that women are less suitable for engineering and computer science jobs than men. Even more unfortunate is that many talented women who can thrive in these professions are deciding not to pursue them because of such stereotypes.
+
+If I become Ada's graduate, I would see it as a fun duty to educate girls and women of various backgrounds about accessibility of computer science skills and jobs to them. They deserve to know that if they have passion for engineering jobs, they can learn it and make good career.
 <h1>Tell us about a time you made a mistake that you learned a lot from. If you encountered the situation again, what would you do differently?</h1>
-<p1>There is a relevant example from my previous position at Luxoft, Moscow, where I used to work as a business analyst developing Boeing Certification Library system. 
+There is a relevant example from my previous position at Luxoft, Moscow, where I used to work as a business analyst developing Boeing Certification Library system. 
 
 The project had relatively tight budget and schedule when the client decided to add a new complex feature to the product. Being responsible for the analytical estimate of this functionality I underestimated the number of hours I needed to finish the requirements specification for the new feature. I did it in part to motivate myself to complete the specification sooner and ensure that the project stays on track. As a result I had to work nights and weekends under pressure of the deadline for a few weeks.  
 
-Even though I successfully finished and verified the specification with the customer, I learned a lot from this experience. First, I should be more careful in planning. Second, if the estimate becomes inaccurate due to any reason, I should talk to managers and discuss a possibility to assign more people to the project.</p1>
+Even though I successfully finished and verified the specification with the customer, I learned a lot from this experience. First, I should be more careful in planning. Second, if the estimate becomes inaccurate due to any reason, I should talk to managers and discuss a possibility to assign more people to the project.
